@@ -8,8 +8,8 @@ export default function Home() {
 
       <div>
         <Link href="/">Home</Link>
-        <Link href="/blog-posts">See all posts</Link>
-        <Link href="/new-post">Create new post</Link>
+        <Link href="/blogposts">See all posts</Link>
+        <Link href="/newpost">Create new post</Link>
       </div>
       <div>
         <h1>Welcome to my blog</h1>
